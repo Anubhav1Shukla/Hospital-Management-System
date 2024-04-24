@@ -1,3 +1,5 @@
+/*
+
 Hospital Management System using MERN Stack
 
 Welcome to the Hospital Management System (HMS) built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. This system is designed to streamline various processes within a hospital, including patient management, appointment scheduling, staff management, and more.
@@ -56,6 +58,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact:
 
-If you have any questions or suggestions regarding this Hospital Management System, feel free to contact us at your-email@example.com.
+If you have any questions or suggestions regarding this Hospital Management System, feel free to contact us at shuklaanubhav613@gamil.com
 
 Thank you for using our Hospital Management System! We hope it helps in streamlining your hospital's operations.
+
+*/
