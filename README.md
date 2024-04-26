@@ -6,15 +6,14 @@ Welcome to the Hospital Management System (HMS) built with the MERN (MongoDB, Ex
 
 Features:
 
-User Authentication: Secure user authentication system for both staff and patients.
+
 Patient Management: Efficient management of patient records including personal information, medical history, and treatment details.
 Appointment Scheduling: Allows patients to schedule appointments with doctors based on availability.
 Staff Management: Management of staff profiles, roles, and scheduling.
-Billing and Invoicing: Generation of bills and invoices for patient treatments and services.
+
 Inventory Management: Tracking and management of hospital inventory such as medicines, medical equipment, etc.
-Reports and Analytics: Generation of reports and analytics to monitor hospital performance and trends.
-Notifications: Automatic notifications for appointment reminders, billing, etc.
-Accessibility: User-friendly interface accessible from desktop and mobile devices.
+
+
 Installation:
 
 Clone the Repository:
